@@ -27,7 +27,8 @@ This project offers a modern authentication interface using face recognition tec
 - cryptography (for data security)
 - PIL (for visual operations)
 
-## Proje Yapısı
+## Project Structure
+```
 .face_recognition_system
 ├── app/
 │   ├── __init__.py   
@@ -49,8 +50,8 @@ This project offers a modern authentication interface using face recognition tec
 ├── main.py
 ├── requirements.txt
 ├── README.md
-
-## 📦 Kurulum ve Kullanım
+```
+## 📦 Installation and Use
 
 1. Clone this repo:
    ```bash
